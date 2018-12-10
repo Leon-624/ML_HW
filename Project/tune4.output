@@ -1,0 +1,17 @@
+PUBG_NN_Tune starts
+hidden_layers = [128, 64, 32, 16], reg_strength = 0.000, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0322
+hidden_layers = [128, 64, 32, 16], reg_strength = 0.000, dropout_rate = 0.050, lr = 0.0010, MAE = 0.0461
+hidden_layers = [128, 64, 32, 16], reg_strength = 0.001, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0316
+hidden_layers = [128, 64, 32, 16], reg_strength = 0.001, dropout_rate = 0.050, lr = 0.0010, MAE = 0.0337
+hidden_layers = [128, 64, 32, 16], reg_strength = 0.002, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0319
+hidden_layers = [128, 64, 32, 16], reg_strength = 0.002, dropout_rate = 0.050, lr = 0.0010, MAE = 0.0363
+hidden_layers = [128, 64, 32, 16], reg_strength = 0.005, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0373
+hidden_layers = [128, 64, 32, 16], reg_strength = 0.005, dropout_rate = 0.050, lr = 0.0010, MAE = 0.0396
+hidden_layers = [128, 64, 32, 16, 8], reg_strength = 0.000, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0313
+hidden_layers = [128, 64, 32, 16, 8], reg_strength = 0.000, dropout_rate = 0.050, lr = 0.0010, MAE = 0.0444
+hidden_layers = [128, 64, 32, 16, 8], reg_strength = 0.001, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0314
+hidden_layers = [128, 64, 32, 16, 8], reg_strength = 0.001, dropout_rate = 0.050, lr = 0.0010, MAE = 0.0389
+hidden_layers = [128, 64, 32, 16, 8], reg_strength = 0.002, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0327
+hidden_layers = [128, 64, 32, 16, 8], reg_strength = 0.002, dropout_rate = 0.050, lr = 0.0010, MAE = 0.0411
+hidden_layers = [128, 64, 32, 16, 8], reg_strength = 0.005, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0381
+hidden_layers = [128, 64, 32, 16, 8], reg_strength = 0.005, dropout_rate = 0.050, lr = 0.0010, MAE = 0.0452
