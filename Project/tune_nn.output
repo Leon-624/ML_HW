@@ -1,0 +1,9 @@
+PUBG_NN_Tune starts
+hidden_layers = [512, 256, 128, 64, 32], reg_strength = 0.000, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0305
+hidden_layers = [512, 256, 128, 64, 32], reg_strength = 0.000, dropout_rate = 0.050, lr = 0.0010, MAE = 0.0450
+hidden_layers = [512, 256, 128, 64, 32], reg_strength = 0.001, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0313
+hidden_layers = [512, 256, 128, 64, 32], reg_strength = 0.001, dropout_rate = 0.050, lr = 0.0010, MAE = 0.0333
+hidden_layers = [512, 256, 128, 64, 32], reg_strength = 0.001, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0320
+hidden_layers = [512, 256, 128, 64, 32], reg_strength = 0.001, dropout_rate = 0.050, lr = 0.0010, MAE = 0.0352
+hidden_layers = [512, 256, 128, 64], reg_strength = 0.000, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0339
+hidden_layers = [512, 256, 128, 64], reg_strength = 0.000, dropout_rate = 0.050, lr = 0.0010, MAE = 0.0419
