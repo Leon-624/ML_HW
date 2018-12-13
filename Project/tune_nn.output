@@ -7,3 +7,20 @@ hidden_layers = [512, 256, 128, 64, 32], reg_strength = 0.001, dropout_rate = 0.
 hidden_layers = [512, 256, 128, 64, 32], reg_strength = 0.001, dropout_rate = 0.050, lr = 0.0010, MAE = 0.0352
 hidden_layers = [512, 256, 128, 64], reg_strength = 0.000, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0339
 hidden_layers = [512, 256, 128, 64], reg_strength = 0.000, dropout_rate = 0.050, lr = 0.0010, MAE = 0.0419
+hidden_layers = [512, 256, 128, 64], reg_strength = 0.001, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0296
+hidden_layers = [512, 256, 128, 64], reg_strength = 0.001, dropout_rate = 0.050, lr = 0.0010, MAE = 0.0315
+hidden_layers = [512, 256, 128, 64], reg_strength = 0.001, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0318
+hidden_layers = [512, 256, 128, 64], reg_strength = 0.001, dropout_rate = 0.050, lr = 0.0010, MAE = 0.0324
+hidden_layers = [256, 128, 64, 32], reg_strength = 0.000, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0321
+hidden_layers = [256, 128, 64, 32], reg_strength = 0.000, dropout_rate = 0.050, lr = 0.0010, MAE = 0.0429
+hidden_layers = [256, 128, 64, 32], reg_strength = 0.001, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0320
+hidden_layers = [256, 128, 64, 32], reg_strength = 0.001, dropout_rate = 0.050, lr = 0.0010, MAE = 0.0327
+hidden_layers = [256, 128, 64, 32], reg_strength = 0.001, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0307
+hidden_layers = [256, 128, 64, 32], reg_strength = 0.001, dropout_rate = 0.050, lr = 0.0010, MAE = 0.0323
+hidden_layers = [512, 256, 128], reg_strength = 0.000, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0328
+hidden_layers = [512, 256, 128], reg_strength = 0.000, dropout_rate = 0.050, lr = 0.0010, MAE = 0.0359
+hidden_layers = [512, 256, 128], reg_strength = 0.001, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0320
+hidden_layers = [512, 256, 128], reg_strength = 0.001, dropout_rate = 0.050, lr = 0.0010, MAE = 0.0316
+hidden_layers = [512, 256, 128], reg_strength = 0.001, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0338
+hidden_layers = [512, 256, 128], reg_strength = 0.001, dropout_rate = 0.050, lr = 0.0010, MAE = 0.0318
+best parameters: hidden_layers = [512, 256, 128, 64], reg_strength = 0.0005, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0296
