@@ -1,0 +1,10 @@
+PUBG_LightGBM_Tune starts
+num_leaves = 31, learning_rate = 0.050, bagging_fraction = 0.70, MAE = 0.0254
+num_leaves = 31, learning_rate = 0.050, bagging_fraction = 0.90, MAE = 0.0253
+num_leaves = 31, learning_rate = 0.100, bagging_fraction = 0.70, MAE = 0.0248
+num_leaves = 31, learning_rate = 0.100, bagging_fraction = 0.90, MAE = 0.0248
+num_leaves = 40, learning_rate = 0.050, bagging_fraction = 0.70, MAE = 0.0250
+num_leaves = 40, learning_rate = 0.050, bagging_fraction = 0.90, MAE = 0.0250
+num_leaves = 40, learning_rate = 0.100, bagging_fraction = 0.70, MAE = 0.0245
+num_leaves = 40, learning_rate = 0.100, bagging_fraction = 0.90, MAE = 0.0244
+best parameters: num_leaves = 40, learning_rate = 0.100, bagging_fraction = 0.90, MAE = 0.0244

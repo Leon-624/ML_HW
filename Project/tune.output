@@ -1,0 +1,136 @@
+PUBG_NN_Tune starts
+hidden_layers = [256, 128], reg_strength = 1.000, dropout_rate = 0.000, lr = 0.1000, MAE = 0.2243
+hidden_layers = [256, 128], reg_strength = 1.000, dropout_rate = 0.000, lr = 0.0100, MAE = 0.0701
+hidden_layers = [256, 128], reg_strength = 1.000, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0728
+hidden_layers = [256, 128], reg_strength = 1.000, dropout_rate = 0.100, lr = 0.1000, MAE = 0.2679
+hidden_layers = [256, 128], reg_strength = 1.000, dropout_rate = 0.100, lr = 0.0100, MAE = 0.0953
+hidden_layers = [256, 128], reg_strength = 1.000, dropout_rate = 0.100, lr = 0.0010, MAE = 0.0758
+hidden_layers = [256, 128], reg_strength = 1.000, dropout_rate = 0.200, lr = 0.1000, MAE = 0.2676
+hidden_layers = [256, 128], reg_strength = 1.000, dropout_rate = 0.200, lr = 0.0100, MAE = 0.1113
+hidden_layers = [256, 128], reg_strength = 1.000, dropout_rate = 0.200, lr = 0.0010, MAE = 0.0811
+hidden_layers = [256, 128], reg_strength = 0.100, dropout_rate = 0.000, lr = 0.1000, MAE = 0.1276
+hidden_layers = [256, 128], reg_strength = 0.100, dropout_rate = 0.000, lr = 0.0100, MAE = 0.0556
+hidden_layers = [256, 128], reg_strength = 0.100, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0526
+hidden_layers = [256, 128], reg_strength = 0.100, dropout_rate = 0.100, lr = 0.1000, MAE = 0.1511
+hidden_layers = [256, 128], reg_strength = 0.100, dropout_rate = 0.100, lr = 0.0100, MAE = 0.0924
+hidden_layers = [256, 128], reg_strength = 0.100, dropout_rate = 0.100, lr = 0.0010, MAE = 0.0547
+hidden_layers = [256, 128], reg_strength = 0.100, dropout_rate = 0.200, lr = 0.1000, MAE = 0.2677
+hidden_layers = [256, 128], reg_strength = 0.100, dropout_rate = 0.200, lr = 0.0100, MAE = 0.0738
+hidden_layers = [256, 128], reg_strength = 0.100, dropout_rate = 0.200, lr = 0.0010, MAE = 0.0559
+hidden_layers = [256, 128], reg_strength = 0.010, dropout_rate = 0.000, lr = 0.1000, MAE = 0.2676
+hidden_layers = [256, 128], reg_strength = 0.010, dropout_rate = 0.000, lr = 0.0100, MAE = 0.0400
+hidden_layers = [256, 128], reg_strength = 0.010, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0378
+hidden_layers = [256, 128], reg_strength = 0.010, dropout_rate = 0.100, lr = 0.1000, MAE = 0.2679
+hidden_layers = [256, 128], reg_strength = 0.010, dropout_rate = 0.100, lr = 0.0100, MAE = 0.0434
+hidden_layers = [256, 128], reg_strength = 0.010, dropout_rate = 0.100, lr = 0.0010, MAE = 0.0375
+hidden_layers = [256, 128], reg_strength = 0.010, dropout_rate = 0.200, lr = 0.1000, MAE = 0.2683
+hidden_layers = [256, 128], reg_strength = 0.010, dropout_rate = 0.200, lr = 0.0100, MAE = 0.0489
+hidden_layers = [256, 128], reg_strength = 0.010, dropout_rate = 0.200, lr = 0.0010, MAE = 0.0394
+hidden_layers = [128, 64], reg_strength = 1.000, dropout_rate = 0.000, lr = 0.1000, MAE = 0.1207
+hidden_layers = [128, 64], reg_strength = 1.000, dropout_rate = 0.000, lr = 0.0100, MAE = 0.0671
+hidden_layers = [128, 64], reg_strength = 1.000, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0725
+hidden_layers = [128, 64], reg_strength = 1.000, dropout_rate = 0.100, lr = 0.1000, MAE = 0.2680
+hidden_layers = [128, 64], reg_strength = 1.000, dropout_rate = 0.100, lr = 0.0100, MAE = 0.0905
+hidden_layers = [128, 64], reg_strength = 1.000, dropout_rate = 0.100, lr = 0.0010, MAE = 0.0779
+hidden_layers = [128, 64], reg_strength = 1.000, dropout_rate = 0.200, lr = 0.1000, MAE = 0.2679
+hidden_layers = [128, 64], reg_strength = 1.000, dropout_rate = 0.200, lr = 0.0100, MAE = 0.1207
+hidden_layers = [128, 64], reg_strength = 1.000, dropout_rate = 0.200, lr = 0.0010, MAE = 0.0833
+hidden_layers = [128, 64], reg_strength = 0.100, dropout_rate = 0.000, lr = 0.1000, MAE = 0.0631
+hidden_layers = [128, 64], reg_strength = 0.100, dropout_rate = 0.000, lr = 0.0100, MAE = 0.0622
+hidden_layers = [128, 64], reg_strength = 0.100, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0498
+hidden_layers = [128, 64], reg_strength = 0.100, dropout_rate = 0.100, lr = 0.1000, MAE = 0.2679
+hidden_layers = [128, 64], reg_strength = 0.100, dropout_rate = 0.100, lr = 0.0100, MAE = 0.0752
+hidden_layers = [128, 64], reg_strength = 0.100, dropout_rate = 0.100, lr = 0.0010, MAE = 0.0544
+hidden_layers = [128, 64], reg_strength = 0.100, dropout_rate = 0.200, lr = 0.1000, MAE = 0.2681
+hidden_layers = [128, 64], reg_strength = 0.100, dropout_rate = 0.200, lr = 0.0100, MAE = 0.0687
+hidden_layers = [128, 64], reg_strength = 0.100, dropout_rate = 0.200, lr = 0.0010, MAE = 0.0566
+hidden_layers = [128, 64], reg_strength = 0.010, dropout_rate = 0.000, lr = 0.1000, MAE = 0.1409
+hidden_layers = [128, 64], reg_strength = 0.010, dropout_rate = 0.000, lr = 0.0100, MAE = 0.0424
+hidden_layers = [128, 64], reg_strength = 0.010, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0354
+hidden_layers = [128, 64], reg_strength = 0.010, dropout_rate = 0.100, lr = 0.1000, MAE = 0.2682
+hidden_layers = [128, 64], reg_strength = 0.010, dropout_rate = 0.100, lr = 0.0100, MAE = 0.0509
+hidden_layers = [128, 64], reg_strength = 0.010, dropout_rate = 0.100, lr = 0.0010, MAE = 0.0388
+hidden_layers = [128, 64], reg_strength = 0.010, dropout_rate = 0.200, lr = 0.1000, MAE = 0.2678
+hidden_layers = [128, 64], reg_strength = 0.010, dropout_rate = 0.200, lr = 0.0100, MAE = 0.0511
+hidden_layers = [128, 64], reg_strength = 0.010, dropout_rate = 0.200, lr = 0.0010, MAE = 0.0395
+hidden_layers = [64, 32], reg_strength = 1.000, dropout_rate = 0.000, lr = 0.1000, MAE = 0.0868
+hidden_layers = [64, 32], reg_strength = 1.000, dropout_rate = 0.000, lr = 0.0100, MAE = 0.0643
+hidden_layers = [64, 32], reg_strength = 1.000, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0796
+hidden_layers = [64, 32], reg_strength = 1.000, dropout_rate = 0.100, lr = 0.1000, MAE = 0.2676
+hidden_layers = [64, 32], reg_strength = 1.000, dropout_rate = 0.100, lr = 0.0100, MAE = 0.0825
+hidden_layers = [64, 32], reg_strength = 1.000, dropout_rate = 0.100, lr = 0.0010, MAE = 0.0819
+hidden_layers = [64, 32], reg_strength = 1.000, dropout_rate = 0.200, lr = 0.1000, MAE = 0.2687
+hidden_layers = [64, 32], reg_strength = 1.000, dropout_rate = 0.200, lr = 0.0100, MAE = 0.0904
+hidden_layers = [64, 32], reg_strength = 1.000, dropout_rate = 0.200, lr = 0.0010, MAE = 0.0873
+hidden_layers = [64, 32], reg_strength = 0.100, dropout_rate = 0.000, lr = 0.1000, MAE = 0.0895
+hidden_layers = [64, 32], reg_strength = 0.100, dropout_rate = 0.000, lr = 0.0100, MAE = 0.0558
+hidden_layers = [64, 32], reg_strength = 0.100, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0525
+hidden_layers = [64, 32], reg_strength = 0.100, dropout_rate = 0.100, lr = 0.1000, MAE = 0.2677
+hidden_layers = [64, 32], reg_strength = 0.100, dropout_rate = 0.100, lr = 0.0100, MAE = 0.0730
+hidden_layers = [64, 32], reg_strength = 0.100, dropout_rate = 0.100, lr = 0.0010, MAE = 0.0577
+hidden_layers = [64, 32], reg_strength = 0.100, dropout_rate = 0.200, lr = 0.1000, MAE = 0.1244
+hidden_layers = [64, 32], reg_strength = 0.100, dropout_rate = 0.200, lr = 0.0100, MAE = 0.0633
+hidden_layers = [64, 32], reg_strength = 0.100, dropout_rate = 0.200, lr = 0.0010, MAE = 0.0594
+hidden_layers = [64, 32], reg_strength = 0.010, dropout_rate = 0.000, lr = 0.1000, MAE = 0.2678
+hidden_layers = [64, 32], reg_strength = 0.010, dropout_rate = 0.000, lr = 0.0100, MAE = 0.0407
+hidden_layers = [64, 32], reg_strength = 0.010, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0361
+hidden_layers = [64, 32], reg_strength = 0.010, dropout_rate = 0.100, lr = 0.1000, MAE = 0.2679
+hidden_layers = [64, 32], reg_strength = 0.010, dropout_rate = 0.100, lr = 0.0100, MAE = 0.0533
+hidden_layers = [64, 32], reg_strength = 0.010, dropout_rate = 0.100, lr = 0.0010, MAE = 0.0408
+hidden_layers = [64, 32], reg_strength = 0.010, dropout_rate = 0.200, lr = 0.1000, MAE = 0.2679
+hidden_layers = [64, 32], reg_strength = 0.010, dropout_rate = 0.200, lr = 0.0100, MAE = 0.0461
+hidden_layers = [64, 32], reg_strength = 0.010, dropout_rate = 0.200, lr = 0.0010, MAE = 0.0414
+hidden_layers = [256], reg_strength = 1.000, dropout_rate = 0.000, lr = 0.1000, MAE = 0.0719
+hidden_layers = [256], reg_strength = 1.000, dropout_rate = 0.000, lr = 0.0100, MAE = 0.0696
+hidden_layers = [256], reg_strength = 1.000, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0694
+hidden_layers = [256], reg_strength = 1.000, dropout_rate = 0.100, lr = 0.1000, MAE = 0.0763
+hidden_layers = [256], reg_strength = 1.000, dropout_rate = 0.100, lr = 0.0100, MAE = 0.0754
+hidden_layers = [256], reg_strength = 1.000, dropout_rate = 0.100, lr = 0.0010, MAE = 0.0545
+hidden_layers = [256], reg_strength = 1.000, dropout_rate = 0.200, lr = 0.1000, MAE = 0.0849
+hidden_layers = [256], reg_strength = 1.000, dropout_rate = 0.200, lr = 0.0100, MAE = 0.0728
+hidden_layers = [256], reg_strength = 1.000, dropout_rate = 0.200, lr = 0.0010, MAE = 0.0534
+hidden_layers = [256], reg_strength = 0.100, dropout_rate = 0.000, lr = 0.1000, MAE = 0.0534
+hidden_layers = [256], reg_strength = 0.100, dropout_rate = 0.000, lr = 0.0100, MAE = 0.0562
+hidden_layers = [256], reg_strength = 0.100, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0433
+hidden_layers = [256], reg_strength = 0.100, dropout_rate = 0.100, lr = 0.1000, MAE = 0.0722
+hidden_layers = [256], reg_strength = 0.100, dropout_rate = 0.100, lr = 0.0100, MAE = 0.0581
+hidden_layers = [256], reg_strength = 0.100, dropout_rate = 0.100, lr = 0.0010, MAE = 0.0454
+hidden_layers = [256], reg_strength = 0.100, dropout_rate = 0.200, lr = 0.1000, MAE = 0.0736
+hidden_layers = [256], reg_strength = 0.100, dropout_rate = 0.200, lr = 0.0100, MAE = 0.0594
+hidden_layers = [256], reg_strength = 0.100, dropout_rate = 0.200, lr = 0.0010, MAE = 0.0434
+hidden_layers = [256], reg_strength = 0.010, dropout_rate = 0.000, lr = 0.1000, MAE = 0.0546
+hidden_layers = [256], reg_strength = 0.010, dropout_rate = 0.000, lr = 0.0100, MAE = 0.0388
+hidden_layers = [256], reg_strength = 0.010, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0432
+hidden_layers = [256], reg_strength = 0.010, dropout_rate = 0.100, lr = 0.1000, MAE = 0.0513
+hidden_layers = [256], reg_strength = 0.010, dropout_rate = 0.100, lr = 0.0100, MAE = 0.0688
+hidden_layers = [256], reg_strength = 0.010, dropout_rate = 0.100, lr = 0.0010, MAE = 0.0365
+hidden_layers = [256], reg_strength = 0.010, dropout_rate = 0.200, lr = 0.1000, MAE = 0.0563
+hidden_layers = [256], reg_strength = 0.010, dropout_rate = 0.200, lr = 0.0100, MAE = 0.0419
+hidden_layers = [256], reg_strength = 0.010, dropout_rate = 0.200, lr = 0.0010, MAE = 0.0380
+hidden_layers = [128], reg_strength = 1.000, dropout_rate = 0.000, lr = 0.1000, MAE = 0.0721
+hidden_layers = [128], reg_strength = 1.000, dropout_rate = 0.000, lr = 0.0100, MAE = 0.0853
+hidden_layers = [128], reg_strength = 1.000, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0568
+hidden_layers = [128], reg_strength = 1.000, dropout_rate = 0.100, lr = 0.1000, MAE = 0.0839
+hidden_layers = [128], reg_strength = 1.000, dropout_rate = 0.100, lr = 0.0100, MAE = 0.0777
+hidden_layers = [128], reg_strength = 1.000, dropout_rate = 0.100, lr = 0.0010, MAE = 0.0536
+hidden_layers = [128], reg_strength = 1.000, dropout_rate = 0.200, lr = 0.1000, MAE = 0.0868
+hidden_layers = [128], reg_strength = 1.000, dropout_rate = 0.200, lr = 0.0100, MAE = 0.0676
+hidden_layers = [128], reg_strength = 1.000, dropout_rate = 0.200, lr = 0.0010, MAE = 0.0520
+hidden_layers = [128], reg_strength = 0.100, dropout_rate = 0.000, lr = 0.1000, MAE = 0.1006
+hidden_layers = [128], reg_strength = 0.100, dropout_rate = 0.000, lr = 0.0100, MAE = 0.0498
+hidden_layers = [128], reg_strength = 0.100, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0405
+hidden_layers = [128], reg_strength = 0.100, dropout_rate = 0.100, lr = 0.1000, MAE = 0.0657
+hidden_layers = [128], reg_strength = 0.100, dropout_rate = 0.100, lr = 0.0100, MAE = 0.0514
+hidden_layers = [128], reg_strength = 0.100, dropout_rate = 0.100, lr = 0.0010, MAE = 0.0413
+hidden_layers = [128], reg_strength = 0.100, dropout_rate = 0.200, lr = 0.1000, MAE = 0.0633
+hidden_layers = [128], reg_strength = 0.100, dropout_rate = 0.200, lr = 0.0100, MAE = 0.0526
+hidden_layers = [128], reg_strength = 0.100, dropout_rate = 0.200, lr = 0.0010, MAE = 0.0466
+hidden_layers = [128], reg_strength = 0.010, dropout_rate = 0.000, lr = 0.1000, MAE = 0.0488
+hidden_layers = [128], reg_strength = 0.010, dropout_rate = 0.000, lr = 0.0100, MAE = 0.0393
+hidden_layers = [128], reg_strength = 0.010, dropout_rate = 0.000, lr = 0.0010, MAE = 0.0373
+hidden_layers = [128], reg_strength = 0.010, dropout_rate = 0.100, lr = 0.1000, MAE = 0.0519
+hidden_layers = [128], reg_strength = 0.010, dropout_rate = 0.100, lr = 0.0100, MAE = 0.0430
+hidden_layers = [128], reg_strength = 0.010, dropout_rate = 0.100, lr = 0.0010, MAE = 0.0368
+hidden_layers = [128], reg_strength = 0.010, dropout_rate = 0.200, lr = 0.1000, MAE = 0.0549
+hidden_layers = [128], reg_strength = 0.010, dropout_rate = 0.200, lr = 0.0100, MAE = 0.0440
+hidden_layers = [128], reg_strength = 0.010, dropout_rate = 0.200, lr = 0.0010, MAE = 0.0383
